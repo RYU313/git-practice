@@ -1,1 +1,1 @@
-hoge
+hoge text test
