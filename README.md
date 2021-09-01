@@ -1,1 +1,1 @@
-hoge amd
+hoge text test
